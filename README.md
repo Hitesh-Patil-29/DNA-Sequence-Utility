@@ -32,3 +32,8 @@ The main menu groups actions into input and validation, DNA analysis, and DNA op
 ## Notes
 
 The validity check is separate from sequence entry, so the program records input even if it contains characters other than A, T, G, or C. Some operations can therefore produce misleading output for invalid sequences. See [REPORT.md](REPORT.md) for implementation details and limitations.
+
+##Author
+
+Hitesh Patil 
+Registration number-26MIB10091
