@@ -12,7 +12,7 @@ A small interactive Python program for basic DNA sequence checks and operations.
 Open a terminal in this folder and run:
 
 ```powershell
-python "project 1.py"
+python "DNA Sequence Utility.py"
 ```
 
 ## Features
