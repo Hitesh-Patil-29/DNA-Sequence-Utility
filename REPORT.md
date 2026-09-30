@@ -28,7 +28,7 @@ Sequence comparison requires equal lengths. It compares bases at matching indexe
 
 ## Structure and approach
 
-All behavior is currently implemented in `project 1.py`. The main loop displays the top-level menu; nested loops manage each submenu. The current sequence is shared across these menus in one variable, and each operation is implemented in its corresponding menu branch. No external libraries are required.
+All behavior is currently implemented in `DNA Sequence Utility.py`. The main loop displays the top-level menu; nested loops manage each submenu. The current sequence is shared across these menus in one variable, and each operation is implemented in its corresponding menu branch. No external libraries are required.
 
 ## Limitations
 
